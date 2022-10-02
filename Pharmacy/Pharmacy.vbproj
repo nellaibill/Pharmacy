@@ -1246,7 +1246,7 @@
     <None Include="Resources\Main.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="DeveloperNotes.txt">
+    <Content Include="DeveloperNotes\DeveloperNotes.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="logo.jpg" />
@@ -1296,6 +1296,7 @@
     <None Include="DataSet4.xss">
       <DependentUpon>DataSet4.xsd</DependentUpon>
     </None>
+    <None Include="DeveloperNotes\SQLQuery-date on 02-10-22.sql" />
     <None Include="dsAccounts.xsc">
       <DependentUpon>dsAccounts.xsd</DependentUpon>
     </None>

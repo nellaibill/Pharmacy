@@ -1024,7 +1024,6 @@ D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
 D:\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
 D:\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
 D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmInformation.resources
-D:\Pharmacy\Pharmacy\bin\Debug\DeveloperNotes.txt
 D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmClaimPatientNameUpdation.resources
 D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmDailySalesReport.resources
 D:\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Core.dll
@@ -1034,3 +1033,4 @@ D:\Pharmacy\Pharmacy\obj\Debug\Interop.Microsoft.Office.Core.dll
 D:\Pharmacy\Pharmacy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
 D:\Pharmacy\Pharmacy\obj\Debug\Interop.VBIDE.dll
 D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.ResolveComReference.cache
+D:\Pharmacy\Pharmacy\bin\Debug\DeveloperNotes\DeveloperNotes.txt
