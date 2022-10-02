@@ -1,0 +1,1221 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pharmacy
+</name>
+</assembly>
+<members>
+<member name="T:Pharmacy.dsSalesTax.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesTax.AccountTitleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesTax.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesTax.AccountTitleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesTax.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSalesTax.AccountTitleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSalesTax">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsSalesTaxTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSalesTaxTableAdapters.AccountTitleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.StockPrintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.StockPrint1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.StockPrintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.StockPrint1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.StockPrintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint.StockPrint1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrint">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrintTableAdapters.StockPrintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrintTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsStockDatewisePrintTableAdapters.StockPrint1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrug">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrugTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.SheduleHDrugTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.PaymentDueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.PaymentHistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.PaymentDueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.PaymentHistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet2.PaymentDueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet2.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet2.PaymentHistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.DataSet2TableAdapters.PaymentDueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet2TableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet2TableAdapters.PaymentHistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.AccountTitleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.PurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.AccountTitleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.PurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.AccountTitleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsAccounts.PurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsAccounts">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsAccountsTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsAccountsTableAdapters.AccountTitleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsAccountsTableAdapters.PurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfit">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfitTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsQuotationProfitTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSuppliers.SupplierMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSuppliers.SupplierMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSuppliers.SupplierMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSuppliers">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsSuppliersTableAdapters.SupplierMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.ReportTitlesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.ReportTitlesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales.ReportTitlesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSales">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSalesTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSalesTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSupplierSalesTableAdapters.ReportTitlesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.StockDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.StockDetails1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.DrugSlipDetails1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.StockDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.StockDetails1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.DrugSlipDetails1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.StockDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.StockDetails1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsLowStock.DrugSlipDetails1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsLowStock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsLowStockTableAdapters.StockDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsLowStockTableAdapters.StockDetails1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsLowStockTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsLowStockTableAdapters.DrugSlipDetails1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Pharmacy.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Pharmacy.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Pharmacy.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Pharmacy.dsExcessShortage.ESTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsExcessShortage.ESTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsExcessShortage.ESTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsExcessShortage">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsExcessShortageTableAdapters.ESTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.OTTemplateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.DrugSlipDetails1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.OTTemplateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.DrugSlipDetails1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.OTTemplateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsTemplate.DrugSlipDetails1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsTemplate">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsTemplateTableAdapters.OTTemplateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsTemplateTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsTemplateTableAdapters.DrugSlipDetails1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.PaymentDueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.PaymentHistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.PaymentDueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.PaymentHistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet1.PaymentDueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet1.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet1.PaymentHistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.DataSet1TableAdapters.PaymentDueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet1TableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet1TableAdapters.PaymentHistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet4.InvoiceDetails_HistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet4.InvoiceDetails_HistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet4.InvoiceDetails_HistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.DataSet4TableAdapters.InvoiceDetails_HistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise.InvoiceDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise.InvoiceDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise.InvoiceDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewise">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewiseTableAdapters.InvoiceDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseReportDatewiseTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsProducts.ProductMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsProducts.ProductMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsProducts.ProductMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsProducts">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsProductsTableAdapters.ProductMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.InvoiceDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.InvoiceTitleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.InvoiceDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.InvoiceTitleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.InvoiceDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage.InvoiceTitleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentage">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentageTableAdapters.InvoiceDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentageTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsPurchaseProfitPercentageTableAdapters.InvoiceTitleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails5DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.ReportTitlesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.Credit2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.AmountReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.SalesReturnTotDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.CashlessDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.Credit1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.AmountToReturnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.TotalCreditBillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.ExcessAmountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.CancelBillsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.SalesReturnTotCashLessDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails5Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.ReportTitlesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.Credit2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.AmountReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.SalesReturnTotRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.CashlessRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.Credit1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.AmountToReturnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.TotalCreditBillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.ExcessAmountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.CancelBillsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.SalesReturnTotCashLessRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.DrugSlipDetails5RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.ReportTitlesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.Credit2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.AmountReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.SalesReturnTotRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.CashlessRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.Credit1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.AmountToReturnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.TotalCreditBillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.ExcessAmountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.CancelBillsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate.SalesReturnTotCashLessRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDate">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.DrugSlipDetails1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.DrugSlipDetails2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.DrugSlipDetails3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.DrugSlipDetails4TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.DrugSlipDetails5TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.ReportTitlesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.Credit2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.AmountReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.SalesReturnTotTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.CashlessTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.Credit1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.AmountToReturnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.TotalCreditBillTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.ExcessAmountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.CancelBillsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsDrugSlipBetweenDateTableAdapters.SalesReturnTotCashLessTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.SingleTitleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.SingleTitleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport.SingleTitleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReportTableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReportTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsTypewiseReportTableAdapters.SingleTitleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.AmountToBeReturnedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.DrugSlipDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.PaymentDueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.CreditToBePaidDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.CreditPaidDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.AmountReturnedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.AmountToBeReturnedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.DrugSlipDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.PaymentDueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.CreditToBePaidRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.CreditPaidRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.AmountReturnedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.DataSet3.AmountToBeReturnedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3.DrugSlipDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3.PaymentDueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3.CreditToBePaidRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3.CreditPaidRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3.AmountReturnedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.AmountToBeReturnedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.DrugSlipDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.PaymentDueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.CreditToBePaidTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.CreditPaidTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.DataSet3TableAdapters.AmountReturnedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Pharmacy.My.Resources.Resource1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Pharmacy.My.Resources.Resource1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Pharmacy.My.Resources.Resource1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.SalesReturnDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.FromToDateTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.SingleTitleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.SalesReturnDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.FromToDateTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.SingleTitleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.SalesReturnDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.FromToDateTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate.SingleTitleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDate">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDateTableAdapters.SalesReturnDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDateTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDateTableAdapters.FromToDateTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Pharmacy.dsSalesReturnBetweenDateTableAdapters.SingleTitleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

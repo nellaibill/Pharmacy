@@ -1,0 +1,1036 @@
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+H:\Pharmacy (14-1-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+C:\Users\Sam\Desktop\Pharmacy (31-3-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTTemplate.rdlc
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplateReport.resources
+C:\Users\Sam\Desktop\Pharmacy (02-12-2012)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Report1.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Report1.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTTemplate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplateReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Report1.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTTemplate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplateReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+F:\Joe Samraj\My Project\Pharmacy 20-JAN-2013(Code)\Pharmacy (31-3-2012)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Release\Pharmacy.exe.config
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Copy of rptNewSalesTaxReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Report1.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTTemplate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplateReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.S_OT_DELIVERY.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.S_PO.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+D:\SALEEM\Pharmacy 12-OCT-2013(Code)[PHARMACY]\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Copy of rptNewSalesTaxReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Report1.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTTemplate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplateReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.S_OT_DELIVERY.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.S_PO.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+D:\Saleem\Pharmacy 12-OCT-2013(Code)[PHARMACY]\06UN2019\Pharmacy 12-OCT-2013(Code)\Pharmacy (Code)\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+D:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+D:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+D:\Pharmacy\Pharmacy\bin\Debug\Pharmacy.xml
+D:\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Copy of rptNewSalesTaxReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Report1.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturn.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountReturnedBetweenDate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptAmountTobeReturnedBetweenDate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithAmountTobePaid.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptBillWithPaymentTransaction.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCashlessFull.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditPaid.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaid.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCreditToBePaidBetweenDate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptNewSalesTaxReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTTemplate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPaymentTransactions.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitHistory.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportSalesTax.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesTaxReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptESReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptQuotationReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesProductwise.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnCategorywise.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDoctorWise.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSupplierwiseSales.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptCancelBillsBetweenDatewiseConsolidate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDatewisePurchaseReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDeliveryReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDateConsolidate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipBetweenDatewiseFull.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipDetailsBetweenBillNo.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptDrugSlipPrint.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseBillReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptIPNowiseConsolidated.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptOTReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProductNearExpDate.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProducts.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptProudctsInLowStock.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseProfitReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptPurchaseReportDatewise.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSalesReturnBetweenDatewise.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockDatewisePrint.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptStockPrint.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptSuppliers.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.rptTypewiseReport.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.rdlc
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport1.rpt
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalReport2.rpt
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CancelBillsBetweenDatewiseConsolidate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CaseTypeMaster.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Casewise_Report.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CashLessBillBetweenDateFull.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CombinationMaster.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.CrystalBillPrint.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DeliveryReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugPrint.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlip.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrNameMaster.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenBillNoFull.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDateConsolidate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.DrugSlipBetweenDatewiseFull.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortageReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDQuotation.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form2.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountReturnedBetweenDate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmountToReturn.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmAmoutToBeReturnBetweenDate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmBillWithPayment.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmChangePassword.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCombinationFinder.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditPaidBetweenDate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaid.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmCreditToBePaidBetweenDate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmNewSalesTax.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmOldPriceHistory.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPaymentDue.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmPurchaseReportSalesTax.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesReturnCategorywise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSupplierwiseSales.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTTemplateReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmSalesTaxReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmStockDoctorwisePrint.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationEntry.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.QuotationReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesProductwise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ExcessShortage.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindPatienID.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindProductNameDialog.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.FindSupplierIDDialog_PurchaseEntry.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseConsolidated.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmLogin.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.IPNowiseBill.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.LowStock.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Main.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.OTReportsBetweenDatewise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductGroupMaster.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductMaster.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductNearExpDate.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ProductsInLowStock.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseEntry.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseProfitPercentage.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resource1.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.PurchaseReportDatewise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturn.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SalesReturnBetweenDatewise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.ScheduleHDrug.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SplashScreen1.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockBalance.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDatewisePrint.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetails.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDatewise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockDetailsDoctorwise.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.StockPrint.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierMaster.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Resources.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.SupplierReport.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.S_OT_DELIVERY.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.S_PO.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.UserControl1.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.GenerateResource.Cache
+D:\Pharmacy\Pharmacy\obj\Debug\RdlCompile.cache
+D:\Pharmacy\Pharmacy\obj\Debug\RdlCompile.compiled
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmInformation.resources
+D:\Pharmacy\Pharmacy\bin\Debug\DeveloperNotes.txt
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmClaimPatientNameUpdation.resources
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.frmDailySalesReport.resources
+D:\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Pharmacy\Pharmacy\bin\Debug\Interop.VBIDE.dll
+D:\Pharmacy\Pharmacy\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Pharmacy\Pharmacy\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Pharmacy\Pharmacy\obj\Debug\Interop.VBIDE.dll
+D:\Pharmacy\Pharmacy\obj\Debug\Pharmacy.vbproj.ResolveComReference.cache
