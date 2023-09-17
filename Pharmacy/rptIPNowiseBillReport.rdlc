@@ -31,7 +31,7 @@
         <Height>0.25in</Height>
         <Value>Tirunelveli</Value>
       </Textbox>
-      <!-- <Textbox Name="textbox8">
+      <Textbox Name="textbox8">
         <Left>1.5625in</Left>
         <Top>0.625in</Top>
         <ZIndex>5</ZIndex>
@@ -45,8 +45,22 @@
         <CanGrow>true</CanGrow>
         <Height>0.25in</Height>
         <Value>DL No TNY/2329/2021</Value>
-      </Textbox> -->
-      
+      </Textbox>
+      <Textbox Name="textbox14">
+        <Left>0.9375in</Left>
+        <Top>0.375in</Top>
+        <ZIndex>4</ZIndex>
+        <Width>2.75in</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingBottom>2pt</PaddingBottom>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>TIN: 33025565504        CST: 834109</Value>
+      </Textbox>
       <Textbox Name="textbox18">
         <Left>1.1875in</Left>
         <ZIndex>3</ZIndex>
@@ -61,7 +75,7 @@
         </Style>
         <CanGrow>true</CanGrow>
         <Height>0.375in</Height>
-        <Value>Lakshmi Hospital</Value>
+        <Value>Lakshmi Pharmacy</Value>
       </Textbox>
       <Textbox Name="textbox9">
         <Left>1.875in</Left>

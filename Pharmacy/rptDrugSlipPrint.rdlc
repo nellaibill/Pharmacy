@@ -772,7 +772,7 @@
         <Height>0.25in</Height>
         <Value>Bill No: </Value>
       </Textbox>
-      <!-- <Textbox Name="textbox3">
+      <Textbox Name="textbox3">
         <Left>1.75in</Left>
         <Top>0.625in</Top>
         <rd:DefaultName>textbox3</rd:DefaultName>
@@ -787,8 +787,8 @@
         <CanGrow>true</CanGrow>
         <Height>0.25in</Height>
         <Value>DL No TNY/2329/2021</Value>
-      </Textbox> -->
-      <!-- <Textbox Name="textbox2">
+      </Textbox>
+      <Textbox Name="textbox2">
         <Left>1.125in</Left>
         <Top>0.375in</Top>
         <rd:DefaultName>textbox2</rd:DefaultName>
@@ -803,7 +803,7 @@
         <CanGrow>true</CanGrow>
         <Height>0.25in</Height>
         <Value>TIN: 33025565504        CST: 834109</Value>
-      </Textbox> -->
+      </Textbox>
       <Textbox Name="textbox1">
         <Left>1.375in</Left>
         <rd:DefaultName>textbox1</rd:DefaultName>
@@ -818,7 +818,7 @@
         </Style>
         <CanGrow>true</CanGrow>
         <Height>0.375in</Height>
-        <Value>Lakshmi Hospital</Value>
+        <Value>Lakshmi Pharmacy</Value>
       </Textbox>
     </ReportItems>
     <Height>3.25in</Height>
