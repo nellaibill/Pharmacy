@@ -30,8 +30,8 @@ Public Class frmCreditToBePaid
 
         'Dim drugDataSource = New ReportDataSource("DataSet1_DrugSlipDetails", DataSet1.DrugSlipDetails.DefaultView)
         'Me.ReportViewer1.LocalReport.DataSources.Add(drugDataSource)
-        lc.DataSources.Add(New ReportDataSource("DataSet1_DrugSlipDetails", DataSet1.DrugSlipDetails))
-        lc.DataSources.Add(New ReportDataSource("DataSet1_PaymentHistory", DataSet1.PaymentHistory))
+        'lc.DataSources.Add(New ReportDataSource("DataSet1_DrugSlipDetails", DataSet1.DrugSlipDetails))
+        'lc.DataSources.Add(New ReportDataSource("DataSet1_PaymentHistory", DataSet1.PaymentHistory))
 
 
 

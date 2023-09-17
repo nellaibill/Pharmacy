@@ -76,11 +76,11 @@ Public Class OTReportsBetweenDatewise
         Me.DrugSlipDetails1TableAdapter.Fill(Me.dsTemplate.DrugSlipDetails1, arr(0).ToString(), CDate(arr(1).ToString()).Year)
 
 
-        lc.DataSources.Add(New ReportDataSource("dsTemplate_OTTemplate", dsTemplate.OTTemplate))
-        lc.DataSources.Add(New ReportDataSource("dsTemplate_DrugSlipDetails", dsTemplate.DrugSlipDetails))
-        lc.DataSources.Add(New ReportDataSource("dsTemplate_DrugSlipDetails1", dsTemplate.DrugSlipDetails1))
+        'lc.DataSources.Add(New ReportDataSource("dsTemplate_OTTemplate", dsTemplate.OTTemplate))
+        'lc.DataSources.Add(New ReportDataSource("dsTemplate_DrugSlipDetails", dsTemplate.DrugSlipDetails))
+        'lc.DataSources.Add(New ReportDataSource("dsTemplate_DrugSlipDetails1", dsTemplate.DrugSlipDetails1))
 
-        
+
         lc.Refresh()
     End Sub
 End Class

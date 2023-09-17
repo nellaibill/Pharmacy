@@ -5,7 +5,7 @@
       <rd:DataSourceID>4bdfef07-77e2-43c4-9625-c11828e9b1b2</rd:DataSourceID>
       <ConnectionProperties>
         <DataProvider>SQL</DataProvider>
-        <ConnectString>Data Source=server\sqlexpress;Initial Catalog=PharmacyDB;User ID=sa</ConnectString>
+        <ConnectString>Data Source=insure\SQLEXPRESS;Initial Catalog=PharmacyDB;Integrated Security=True</ConnectString>
       </ConnectionProperties>
     </DataSource>
   </DataSources>

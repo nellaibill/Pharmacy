@@ -12,9 +12,9 @@ Public NotInheritable Class SplashScreen1
         '  properties dialog (under the "Project" menu).
 
         'Application title
-        If File.Exists("C:\WINDOWS\PrinterInfo.txt") = True Then
+        If File.Exists("E:\PrinterInfo.txt") = True Then
             'Create an instance of StreamReader to read from a file.
-            Dim sr As StreamReader = New StreamReader("C:\WINDOWS\PrinterInfo.txt")
+            Dim sr As StreamReader = New StreamReader("E:\PrinterInfo.txt")
             ' Read and display the lines from the file until the end 
             ' of the file is reached.
             PrinterName = sr.ReadLine()

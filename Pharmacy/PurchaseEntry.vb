@@ -81,6 +81,7 @@ Public Class PurchaseEntry
         drpProductName.DataSource = dt
         drpProductName.DisplayMember = "ProductName"
         cmdNew.Select()
+        txtExpDate.Value = DateTime.Now().AddDays(1) ' new code
     End Sub
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
