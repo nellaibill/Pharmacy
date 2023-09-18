@@ -18,7 +18,7 @@
   <PageHeader>
     <PrintOnFirstPage>true</PrintOnFirstPage>
     <ReportItems>
-      <Textbox Name="textbox15">
+      <!-- <Textbox Name="textbox15">
         <Top>1.5873cm</Top>
         <Width>3.75in</Width>
         <Style>
@@ -34,7 +34,7 @@
         <Left>1in</Left>
         <Height>0.63492cm</Height>
         <Value>GSTIN33AALPL3839MIZA-Composite Dealer</Value>
-      </Textbox>
+      </Textbox> -->
       <Textbox Name="textbox11">
         <Top>0.63492cm</Top>
         <Width>3.75in</Width>
@@ -50,7 +50,7 @@
         <CanGrow>true</CanGrow>
         <Left>1in</Left>
         <Height>0.63492cm</Height>
-        <Value>Lakshmi Hospital-Pharmacy,Tirunelveli</Value>
+        <Value>Lakshmi Hospital,Tirunelveli</Value>
       </Textbox>
       <Textbox Name="textbox1">
         <rd:DefaultName>textbox1</rd:DefaultName>
