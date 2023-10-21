@@ -20,18 +20,18 @@ Partial Class frmLogin
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmLogin))
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.UsernameTextBox = New System.Windows.Forms.TextBox
-        Me.PasswordTextBox = New System.Windows.Forms.TextBox
-        Me.Admin = New System.Windows.Forms.RadioButton
-        Me.User = New System.Windows.Forms.RadioButton
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox
-        Me.cmdCancel = New Glass.GlassButton
-        Me.cmdLogin = New Glass.GlassButton
-        Me.Pharmacy = New System.Windows.Forms.RadioButton
-        Me.Label4 = New System.Windows.Forms.Label
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.UsernameTextBox = New System.Windows.Forms.TextBox()
+        Me.PasswordTextBox = New System.Windows.Forms.TextBox()
+        Me.Admin = New System.Windows.Forms.RadioButton()
+        Me.User = New System.Windows.Forms.RadioButton()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.cmdCancel = New Glass.GlassButton()
+        Me.cmdLogin = New Glass.GlassButton()
+        Me.Pharmacy = New System.Windows.Forms.RadioButton()
+        Me.Label4 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -166,7 +166,7 @@ Partial Class frmLogin
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(168, 26)
         Me.Label4.TabIndex = 9
-        Me.Label4.Text = "V: 16/SEP/2023"
+        Me.Label4.Text = "V: 18/OCT/2023"
         '
         'frmLogin
         '
