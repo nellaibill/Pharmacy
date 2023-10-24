@@ -42,8 +42,8 @@ Public Class frmCreditToBePaidBetweenDate
         'TODO: This line of code loads data into the 'DataSet1.PaymentHistory' table. You can move, or remove it, as needed.
         Me.PaymentHistoryTableAdapter.Fill(Me.DataSet1.PaymentHistory, arr(0).ToString, CDate(arr(1)).ToShortDateString)
 
-        'lc.DataSources.Add(New ReportDataSource("DataSet1_DrugSlipDetails", DataSet1.DrugSlipDetails))
-        'lc.DataSources.Add(New ReportDataSource("DataSet1_PaymentHistory", DataSet1.PaymentHistory))
+        lc.DataSources.Add(New ReportDataSource("DataSet1_DrugSlipDetails", DataSet1.DrugSlipDetails))
+        lc.DataSources.Add(New ReportDataSource("DataSet1_PaymentHistory", DataSet1.PaymentHistory))
 
         lc.Refresh()
 

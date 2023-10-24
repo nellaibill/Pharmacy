@@ -31,6 +31,7 @@ E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\stdole.dll
+E:\application code\Pharmacy\Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.xml
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Core.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Interop.VBIDE.dll
