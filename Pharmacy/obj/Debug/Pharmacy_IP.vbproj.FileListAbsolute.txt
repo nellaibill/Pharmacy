@@ -125,4 +125,3 @@ E:\application code\Pharmacy\Pharmacy\obj\Debug\Pharmacy_IP.vbproj.CopyComplete
 E:\application code\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
 E:\application code\Pharmacy\Pharmacy\obj\Debug\Pharmacy.xml
 E:\application code\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
-E:\application code\Pharmacy\Pharmacy\obj\Debug\Pharmacy_IP.vbproj.AssemblyReference.cache

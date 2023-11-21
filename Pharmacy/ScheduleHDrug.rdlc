@@ -5,7 +5,7 @@
       <rd:DataSourceID>4bdfef07-77e2-43c4-9625-c11828e9b1b2</rd:DataSourceID>
       <ConnectionProperties>
         <DataProvider>SQL</DataProvider>
-        <ConnectString>Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=user1;Password=user11</ConnectString>
+        <ConnectString>Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1</ConnectString>
       </ConnectionProperties>
     </DataSource>
   </DataSources>
