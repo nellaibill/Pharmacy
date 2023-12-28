@@ -99,7 +99,7 @@
         </Style>
         <CanGrow>true</CanGrow>
         <Height>0.25in</Height>
-        <Value>Drug Slip Between Datewise (Full)</Value>
+        <Value>Drug Slip Between Datewise (Full) IP- MEDICINE</Value>
       </Textbox>
       <List Name="list1">
         <Sorting>

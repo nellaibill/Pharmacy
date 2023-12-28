@@ -707,7 +707,7 @@
           <PaddingTop>2pt</PaddingTop>
         </Style>
         <CanGrow>true</CanGrow>
-        <Value>Cash Less Bill (Full)</Value>
+        <Value>Cash Less Bill (Full) :IP- MEDICINE</Value>
       </Textbox>
     </ReportItems>
     <Height>0.375in</Height>

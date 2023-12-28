@@ -31,7 +31,8 @@ Public Class S_PO
         Dim ds As New DataSet()
         Dim i As Integer = 0
         Dim sql As String = Nothing
-        connetionString = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        connetionString = Module1.con.ConnectionString
+
         sql = "SELECT * FROM ProductGroupMaster WHERE     (DATALENGTH(GroupName) > 0)"
         connection = New SqlConnection(connetionString)
         Try
@@ -68,7 +69,7 @@ Public Class S_PO
         xReportString = "FULL VIEW"
         LoadDate()
 
-        Dim str As String = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        Dim str As String = Module1.con.ConnectionString
         Dim con As New SqlConnection(str)
         Dim xPercentageText As String = String.Empty
         xPercentageText = txtPercentage.Text + " (%)"
@@ -82,7 +83,7 @@ Public Class S_PO
         SetUpDataGridView()
     End Sub
     Private Sub LoadDate()
-        myconnection = New SqlConnection("Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1")
+        myconnection = New SqlConnection(Module1.con.ConnectionString)
         Dim cmd As SqlCommand = myconnection.CreateCommand()
         'cmd.CommandText = "SELECT * from ConsultantNames "
         myconnection.Open()

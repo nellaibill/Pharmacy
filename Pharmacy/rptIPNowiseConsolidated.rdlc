@@ -50,7 +50,7 @@
         <CanGrow>true</CanGrow>
         <Left>1in</Left>
         <Height>0.63492cm</Height>
-        <Value>Lakshmi Hospital,Tirunelveli</Value>
+        <Value>Lakshmi Hospital - IP Medicine,Tirunelveli</Value>
       </Textbox>
       <Textbox Name="textbox1">
         <rd:DefaultName>textbox1</rd:DefaultName>

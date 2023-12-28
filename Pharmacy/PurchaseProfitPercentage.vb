@@ -162,7 +162,7 @@ Public Class PurchaseProfitPercentage
         Me.InvoiceDetails_HistoryTableAdapter.Fill(Me.DataSet4.InvoiceDetails_History, arr(0).ToString)
 
 
-        'lc.DataSources.Add(New ReportDataSource("DataSet4_InvoiceDetails_History", DataSet4.InvoiceDetails_History))
+        lc.DataSources.Add(New ReportDataSource("DataSet4_InvoiceDetails_History", DataSet4.InvoiceDetails_History))
 
 
         'lc.DataSources.Add(New ReportDataSource("DataSet1_PaymentHistory", DataSet1.PaymentHistory))

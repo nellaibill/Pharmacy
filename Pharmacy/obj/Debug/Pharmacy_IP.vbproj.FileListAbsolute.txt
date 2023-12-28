@@ -4,6 +4,7 @@ E:\application code\Pharmacy\Pharmacy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\DeveloperNotes\DeveloperNotes.txt
 E:\application code\Pharmacy\Pharmacy\bin\Debug\rptDrugSlipBetweenDateConsolidate.rdlc
+E:\application code\Pharmacy\Pharmacy\bin\Debug\rptDrugSlipPrint.rdlc
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalReport2.rpt
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
@@ -29,9 +30,9 @@ E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\application code\Pharmacy\Pharmacy\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\stdole.dll
-E:\application code\Pharmacy\Pharmacy\bin\Debug\Microsoft.ReportViewer.WinForms.xml
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Core.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Interop.VBIDE.dll

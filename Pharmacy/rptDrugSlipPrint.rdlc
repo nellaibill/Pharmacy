@@ -28,7 +28,7 @@
         </Style>
         <CanGrow>true</CanGrow>
         <Height>0.25in</Height>
-        <Value>-----Cash Bill-----</Value>
+        <Value>-----Cash Bill----- IP- MEDICINE</Value>
       </Textbox>
       <Textbox Name="textbox14">
         <Left>0.75in</Left>
@@ -818,7 +818,7 @@
         </Style>
         <CanGrow>true</CanGrow>
         <Height>0.375in</Height>
-        <Value>Lakshmi Hospital</Value>
+        <Value>Lakshmi Hospital - IP Medicine</Value>
       </Textbox>
     </ReportItems>
     <Height>3.25in</Height>
