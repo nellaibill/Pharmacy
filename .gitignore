@@ -1,5 +1,5 @@
 Pharmacy/obj/Debug/DesignTimeResolveAssemblyReferences.cache
 bin/
 obj/
-Pharmacy/bin/
-Pharmacy/obj/
+Pharmacy/bin/*
+Pharmacy/obj/*
