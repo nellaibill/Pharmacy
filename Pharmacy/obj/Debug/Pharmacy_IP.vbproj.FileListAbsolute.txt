@@ -3,8 +3,11 @@ E:\application code\Pharmacy\Pharmacy\bin\Debug\SqlServerTypes\x64\SqlServerSpat
 E:\application code\Pharmacy\Pharmacy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
 E:\application code\Pharmacy\Pharmacy\bin\Debug\DeveloperNotes\DeveloperNotes.txt
+E:\application code\Pharmacy\Pharmacy\bin\Debug\rptDeliveryReport.rdlc
 E:\application code\Pharmacy\Pharmacy\bin\Debug\rptDrugSlipBetweenDateConsolidate.rdlc
 E:\application code\Pharmacy\Pharmacy\bin\Debug\rptDrugSlipPrint.rdlc
+E:\application code\Pharmacy\Pharmacy\bin\Debug\rptOTReport.rdlc
+E:\application code\Pharmacy\Pharmacy\bin\Debug\rptSalesReturnBetweenDatewise.rdlc
 E:\application code\Pharmacy\Pharmacy\bin\Debug\CrystalReport2.rpt
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
 E:\application code\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe

@@ -33,7 +33,7 @@
         <Value>="Printed On : " &amp; Globals!ExecutionTime</Value>
       </Textbox>
       <Textbox Name="textbox2">
-        <Width>1.65715in</Width>
+        <Width>10.65715in</Width>
         <Style>
           <FontSize>12pt</FontSize>
           <FontWeight>700</FontWeight>

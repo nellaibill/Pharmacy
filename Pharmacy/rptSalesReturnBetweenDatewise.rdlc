@@ -41,7 +41,7 @@
         </Style>
         <CanGrow>true</CanGrow>
         <Height>0.25in</Height>
-        <Value>Between Datewise Sales Return Details (Consolidated)</Value>
+        <Value>B/w Date Sales Return (Consolidated) :IP- MEDICINE</Value>
       </Textbox>
     </ReportItems>
     <Height>0.5in</Height>

@@ -33,7 +33,7 @@
         <Value>="Printed On : " &amp; Globals!ExecutionTime</Value>
       </Textbox>
       <Textbox Name="textbox2">
-        <Width>1.19791in</Width>
+        <Width>10.19791in</Width>
         <Style>
           <FontSize>12pt</FontSize>
           <FontWeight>700</FontWeight>
@@ -45,7 +45,7 @@
         <CanGrow>true</CanGrow>
         <Left>4.625in</Left>
         <Height>0.25in</Height>
-        <Value>OT Report</Value>
+        <Value>OT Report :IP- MEDICINE</Value>
       </Textbox>
     </ReportItems>
     <Height>0.5in</Height>
