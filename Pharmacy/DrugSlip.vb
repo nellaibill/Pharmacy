@@ -161,14 +161,110 @@ Public Class DrugSlip
             If dt.Rows.Count > 0 Then
                 If cmdNew.Text = "&Save" Then
                     For i As Integer = 0 To dt.Rows.Count - 1
-                        If dt.Rows(i).Item("CaseType") = "ABD HYS" Or dt.Rows(i).Item("CaseType") = "ABH HYS" Or dt.Rows(i).Item("CaseType") = "GS" Or dt.Rows(i).Item("CaseType") = "DIA LAP" Or dt.Rows(i).Item("CaseType") = "HYS LAP" Or dt.Rows(i).Item("CaseType") = "LAP" Or dt.Rows(i).Item("CaseType") = "LAP HYS" Or dt.Rows(i).Item("CaseType") = "LSCS" Or dt.Rows(i).Item("CaseType") = "PS" Or dt.Rows(i).Item("CaseType") = "VAG HYS" Or dt.Rows(i).Item("CaseType") = "NORMAL DELIVERY" Or dt.Rows(i).Item("CaseType") = "NEW BORN" Or dt.Rows(i).Item("CaseType") = "BIOPSY" Or dt.Rows(i).Item("CaseType") = "CERVICAL STICH" Or dt.Rows(i).Item("CaseType") = "DNC" Or dt.Rows(i).Item("CaseType") = "I&D" Or dt.Rows(i).Item("CaseType") = "LAP ECTOPIC" Or dt.Rows(i).Item("CaseType") = "LS" Or dt.Rows(i).Item("CaseType") = "MYOMECTOMY" Or dt.Rows(i).Item("CaseType") = "BABY CASE" Or dt.Rows(i).Item("CaseType") = "HERNIA" Or dt.Rows(i).Item("CaseType") = "BREAST I&D" Or dt.Rows(i).Item("CaseType") = "HERNIA" Or dt.Rows(i).Item("CaseType") = "THYROID" Or dt.Rows(i).Item("CaseType") = "PILES" Or dt.Rows(i).Item("CaseType") = "MASTECTOM" Or dt.Rows(i).Item("CaseType") = "LUMPBREAST" Or dt.Rows(i).Item("CaseType") = "FISTULA" Or dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or dt.Rows(i).Item("CaseType") = "BREAST ABSCEES" Or dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or dt.Rows(i).Item("CaseType") = "PERINAL ABSCEES" Or dt.Rows(i).Item("CaseType") = "LABIAL CYST" Then
+                        If dt.Rows(i).Item("CaseType") = "ABD HYS" Or
+                           dt.Rows(i).Item("CaseType") = "ABH HYS" Or
+                           dt.Rows(i).Item("CaseType") = "GS" Or
+                           dt.Rows(i).Item("CaseType") = "DIA LAP" Or
+                           dt.Rows(i).Item("CaseType") = "HYS LAP" Or
+                           dt.Rows(i).Item("CaseType") = "LAP" Or
+                           dt.Rows(i).Item("CaseType") = "LAP HYS" Or
+                           dt.Rows(i).Item("CaseType") = "LSCS" Or
+                           dt.Rows(i).Item("CaseType") = "PS" Or
+                           dt.Rows(i).Item("CaseType") = "VAG HYS" Or
+                           dt.Rows(i).Item("CaseType") = "NORMAL DELIVERY" Or
+                           dt.Rows(i).Item("CaseType") = "NEW BORN" Or
+                           dt.Rows(i).Item("CaseType") = "BIOPSY" Or
+                           dt.Rows(i).Item("CaseType") = "CERVICAL STICH" Or
+                           dt.Rows(i).Item("CaseType") = "DNC" Or
+                           dt.Rows(i).Item("CaseType") = "I&D" Or
+                           dt.Rows(i).Item("CaseType") = "LAP ECTOPIC" Or
+                           dt.Rows(i).Item("CaseType") = "LS" Or
+                           dt.Rows(i).Item("CaseType") = "MYOMECTOMY" Or
+                           dt.Rows(i).Item("CaseType") = "BABY CASE" Or
+                           dt.Rows(i).Item("CaseType") = "HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "BREAST I&D" Or
+                           dt.Rows(i).Item("CaseType") = "HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "THYROID" Or
+                           dt.Rows(i).Item("CaseType") = "PILES" Or
+                           dt.Rows(i).Item("CaseType") = "MASTECTOMY" Or
+                           dt.Rows(i).Item("CaseType") = "LUMPBREAST" Or
+                           dt.Rows(i).Item("CaseType") = "FISTULA" Or
+                           dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or
+                           dt.Rows(i).Item("CaseType") = "BREAST ABSCEES" Or
+                           dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "PERINAL ABSCEES" Or
+                           dt.Rows(i).Item("CaseType") = "LABIAL CYST" Or
+                           dt.Rows(i).Item("CaseType") = "APPENDIX" Or
+                           dt.Rows(i).Item("CaseType") = "FIBROADENOMA BREAST" Or
+                           dt.Rows(i).Item("CaseType") = "FISSURE" Or
+                           dt.Rows(i).Item("CaseType") = "FISTULA" Or
+                           dt.Rows(i).Item("CaseType") = "GS" Or
+                           dt.Rows(i).Item("CaseType") = "HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "I&D" Or
+                           dt.Rows(i).Item("CaseType") = "LAP.APPENDIX" Or
+                           dt.Rows(i).Item("CaseType") = "LUMPBREAST" Or
+                           dt.Rows(i).Item("CaseType") = "MASTECTOMY" Or
+                           dt.Rows(i).Item("CaseType") = "PAPILOMA" Or
+                           dt.Rows(i).Item("CaseType") = "PILES" Or
+                           dt.Rows(i).Item("CaseType") = "POLYP REMOVEL" Or
+                           dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or
+                           dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "VAGINAL HYSTRECTOMY" Then
                             MsgBox("A Bill Saved for this patient Already in this case Old Bill No is: " & dt.Rows(0).Item("BillNo"))
                             Return False
                         End If
                     Next
                 ElseIf cmdEdit.Text = "&Update" Then
                     For i As Integer = 0 To dt.Rows.Count - 1
-                        If dt.Rows(i).Item("CaseType") = "ABD HYS" Or dt.Rows(i).Item("CaseType") = "ABH HYS" Or dt.Rows(i).Item("CaseType") = "GS" Or dt.Rows(i).Item("CaseType") = "DIA LAP" Or dt.Rows(i).Item("CaseType") = "HYS LAP" Or dt.Rows(i).Item("CaseType") = "LAP" Or dt.Rows(i).Item("CaseType") = "LAP HYS" Or dt.Rows(i).Item("CaseType") = "LSCS" Or dt.Rows(i).Item("CaseType") = "PS" Or dt.Rows(i).Item("CaseType") = "VAG HYS" Or dt.Rows(i).Item("CaseType") = "NORMAL DELIVERY" Or dt.Rows(i).Item("CaseType") = "NEW BORN" Or dt.Rows(i).Item("CaseType") = "BIOPSY" Or dt.Rows(i).Item("CaseType") = "CERVICAL STICH" Or dt.Rows(i).Item("CaseType") = "DNC" Or dt.Rows(i).Item("CaseType") = "I&D" Or dt.Rows(i).Item("CaseType") = "LAP ECTOPIC" Or dt.Rows(i).Item("CaseType") = "LS" Or dt.Rows(i).Item("CaseType") = "MYOMECTOMY" Or dt.Rows(i).Item("CaseType") = "BABY CASE" Or dt.Rows(i).Item("CaseType") = "HERNIA" Or dt.Rows(i).Item("CaseType") = "BREAST I&D" Or dt.Rows(i).Item("CaseType") = "HERNIA" Or dt.Rows(i).Item("CaseType") = "THYROID" Or dt.Rows(i).Item("CaseType") = "PILES" Or dt.Rows(i).Item("CaseType") = "MASTECTOM" Or dt.Rows(i).Item("CaseType") = "LUMPBREAST" Or dt.Rows(i).Item("CaseType") = "FISTULA" Or dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or dt.Rows(i).Item("CaseType") = "BREAST ABSCEES" Or dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or dt.Rows(i).Item("CaseType") = "PERINAL ABSCEES" Or dt.Rows(i).Item("CaseType") = "LABIAL CYST" Then
+                        If dt.Rows(i).Item("CaseType") = "ABD HYS" Or
+                           dt.Rows(i).Item("CaseType") = "ABH HYS" Or
+                           dt.Rows(i).Item("CaseType") = "GS" Or
+                           dt.Rows(i).Item("CaseType") = "DIA LAP" Or
+                           dt.Rows(i).Item("CaseType") = "HYS LAP" Or
+                           dt.Rows(i).Item("CaseType") = "LAP" Or
+                           dt.Rows(i).Item("CaseType") = "LAP HYS" Or
+                           dt.Rows(i).Item("CaseType") = "LSCS" Or
+                           dt.Rows(i).Item("CaseType") = "PS" Or
+                           dt.Rows(i).Item("CaseType") = "VAG HYS" Or
+                           dt.Rows(i).Item("CaseType") = "NORMAL DELIVERY" Or
+                           dt.Rows(i).Item("CaseType") = "NEW BORN" Or
+                           dt.Rows(i).Item("CaseType") = "BIOPSY" Or
+                           dt.Rows(i).Item("CaseType") = "CERVICAL STICH" Or
+                           dt.Rows(i).Item("CaseType") = "DNC" Or
+                           dt.Rows(i).Item("CaseType") = "I&D" Or
+                           dt.Rows(i).Item("CaseType") = "LAP ECTOPIC" Or
+                           dt.Rows(i).Item("CaseType") = "LS" Or
+                           dt.Rows(i).Item("CaseType") = "MYOMECTOMY" Or
+                           dt.Rows(i).Item("CaseType") = "BABY CASE" Or
+                           dt.Rows(i).Item("CaseType") = "HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "BREAST I&D" Or
+                           dt.Rows(i).Item("CaseType") = "HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "THYROID" Or
+                           dt.Rows(i).Item("CaseType") = "PILES" Or
+                           dt.Rows(i).Item("CaseType") = "MASTECTOMY" Or
+                           dt.Rows(i).Item("CaseType") = "LUMPBREAST" Or
+                           dt.Rows(i).Item("CaseType") = "FISTULA" Or
+                           dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or
+                           dt.Rows(i).Item("CaseType") = "BREAST ABSCEES" Or
+                           dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "PERINAL ABSCEES" Or
+                           dt.Rows(i).Item("CaseType") = "LABIAL CYST" Or
+                           dt.Rows(i).Item("CaseType") = "APPENDIX" Or
+                           dt.Rows(i).Item("CaseType") = "FIBROADENOMA BREAST" Or
+                           dt.Rows(i).Item("CaseType") = "FISSURE" Or
+                           dt.Rows(i).Item("CaseType") = "FISTULA" Or
+                           dt.Rows(i).Item("CaseType") = "GS" Or
+                           dt.Rows(i).Item("CaseType") = "HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "I&D" Or
+                           dt.Rows(i).Item("CaseType") = "LAP.APPENDIX" Or
+                           dt.Rows(i).Item("CaseType") = "LUMPBREAST" Or
+                           dt.Rows(i).Item("CaseType") = "MASTECTOMY" Or
+                           dt.Rows(i).Item("CaseType") = "PAPILOMA" Or
+                           dt.Rows(i).Item("CaseType") = "PILES" Or
+                           dt.Rows(i).Item("CaseType") = "POLYP REMOVEL" Or
+                           dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or
+                           dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "VAGINAL HYSTRECTOMY" Then
                             MsgBox("A Bill Saved for this patient Already in this case Old Bill No is: " & dt.Rows(0).Item("BillNo"))
                             Return False
                         End If

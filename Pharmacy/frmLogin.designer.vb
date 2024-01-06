@@ -164,9 +164,9 @@ Partial Class frmLogin
         Me.Label4.ForeColor = System.Drawing.Color.Blue
         Me.Label4.Location = New System.Drawing.Point(402, 201)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(170, 26)
+        Me.Label4.Size = New System.Drawing.Size(165, 26)
         Me.Label4.TabIndex = 9
-        Me.Label4.Text = "V: 28/DEC/2023"
+        Me.Label4.Text = "V: 06/JAN/2024"
         '
         'frmLogin
         '

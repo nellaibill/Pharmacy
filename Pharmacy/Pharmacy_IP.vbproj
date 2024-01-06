@@ -1015,7 +1015,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="rptIPNowiseBillReport.rdlc" />
-    <EmbeddedResource Include="rptIPNowiseConsolidated.rdlc" />
+    <EmbeddedResource Include="rptIPNowiseConsolidated.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="rptOTReport.rdlc">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
