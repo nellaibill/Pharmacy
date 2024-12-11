@@ -209,6 +209,7 @@ Public Class DrugSlip
                            dt.Rows(i).Item("CaseType") = "POLYP REMOVEL" Or
                            dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or
                            dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "MTP" Or
                            dt.Rows(i).Item("CaseType") = "VAGINAL HYSTRECTOMY" Then
                             MsgBox("A Bill Saved for this patient Already in this case Old Bill No is: " & dt.Rows(0).Item("BillNo"))
                             Return False
@@ -264,6 +265,7 @@ Public Class DrugSlip
                            dt.Rows(i).Item("CaseType") = "POLYP REMOVEL" Or
                            dt.Rows(i).Item("CaseType") = "SABEACIANCYST" Or
                            dt.Rows(i).Item("CaseType") = "UMB. HERNIA" Or
+                           dt.Rows(i).Item("CaseType") = "MTP" Or
                            dt.Rows(i).Item("CaseType") = "VAGINAL HYSTRECTOMY" Then
                             MsgBox("A Bill Saved for this patient Already in this case Old Bill No is: " & dt.Rows(0).Item("BillNo"))
                             Return False

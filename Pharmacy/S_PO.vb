@@ -219,7 +219,7 @@ Public Class S_PO
 
         xReportString = "TO ORDER"
         LoadDate()
-        Dim str As String = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        Dim str As String = "Data Source=192.168.1.254;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
         Dim con As New SqlConnection(str)
         Dim xPercentageText As String = String.Empty
         xPercentageText = txtPercentage.Text + " (%)"
@@ -249,7 +249,7 @@ Public Class S_PO
         xReportString = "ZERO ORDER"
         LoadDate()
 
-        Dim str As String = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        Dim str As String = "Data Source=192.168.1.254;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
         Dim con As New SqlConnection(str)
         Dim xPercentageText As String = String.Empty
         xPercentageText = txtPercentage.Text + " (%)"
@@ -267,7 +267,7 @@ Public Class S_PO
         xReportString = "NON-MOVING"
         LoadDate()
 
-        Dim str As String = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        Dim str As String = "Data Source=192.168.1.254;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
         Dim con As New SqlConnection(str)
         Dim xPercentageText As String = String.Empty
         xPercentageText = txtPercentage.Text + " (%)"
@@ -289,7 +289,7 @@ Public Class S_PO
         xReportString = "PURCHASED"
         LoadDate()
 
-        Dim str As String = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        Dim str As String = "Data Source=192.168.1.254;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
         Dim con As New SqlConnection(str)
         Dim com As String = "SELECT    ProductName,Purchase FROM StockPrint where Purchase>0 order by ProductName"
         Dim Adpt As New SqlDataAdapter(com, con)
@@ -325,7 +325,7 @@ Public Class S_PO
 
         xReportString = "TO ORDER"
         LoadDate()
-        Dim str As String = "Data Source=192.168.1.13;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
+        Dim str As String = "Data Source=192.168.1.254;Initial Catalog=PharmacyDB;Persist Security Info=True;User ID=lhs1;Password=lhs1"
         Dim con As New SqlConnection(str)
         Dim xPercentageText As String = String.Empty
         xPercentageText = txtPercentage.Text + " (%)"
